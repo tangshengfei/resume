@@ -6,7 +6,6 @@
 
 - 工作年限：2年+
 - 联系方式：a13547971631@gmail.com
-- Github：http://github.com/tangshengfei
 - 期望职位：Web前端开发工程师
 - 期望薪资：税前9K+
 - 期望城市：成都
