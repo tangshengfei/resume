@@ -16,7 +16,7 @@
 
 ## 成都铭尚网络科技有限公司 （ 2015年3月 ~ 2016年4月 ）
 
-### 项目1:   川豪装饰 （http://www.chuanhaozs.com/）
+### 项目1:   川豪装饰 http://www.chuanhaozs.com/
 
 此项目为川豪装饰公司的官网，在这个项目中我主要独立负责全站的html页面和css样式的编码，以及使用jquery类库和php后台进行ajax交互。
 
