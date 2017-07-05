@@ -12,13 +12,15 @@
 
 # 个人评价
 
-严格要求自己，追求编写高效易维护的代码。
+严格要求自己，追求编写高效易用易维护的代码。
 
 喜欢读书，如《javascript高级程序设计》、《javascript语言精髓》、《javascript框架设计》、《css揭秘》等。
 
 学习能力强，喜欢学习新技术，根据项目实际情况并应用到项目中来，如**es6**、**es7**语法。
 
-能够使用**nodejs**平台的**webpack**、**grunt**、**gulp**等构建工具，同时熟悉reactjs、vuejs、avalon等前端框架。
+能够使用**nodejs**平台的**webpack**、**grunt**、**gulp**等构建工具。
+
+熟悉reactjs、vuejs、avalon并了解echart等框架。
 
 学习新技术喜欢理解其内部原理，力求编写高效可维护的代码，使用的时候对代码更可控。
 
