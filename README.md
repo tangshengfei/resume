@@ -63,7 +63,7 @@
 
 学习能力强，喜欢学习新技术，对新技术具备快速学习上手并根据项目实际情况并应用到项目中来。
 
-能够使用**nodejs**平台的**webpack**、**grunt**、**gulp**构建工具以及**bootstrap**、**eachart**框架。
+能够使用**nodejs**平台的**webpack**、**grunt**、**gulp**构建工具以及**bootstrap**、**eachart**前端框架。
 
 熟悉**reactjs**、**vuejs**、**avalonjs**框架和**es6**、**es7**新特性。
 
