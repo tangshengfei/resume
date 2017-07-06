@@ -5,7 +5,8 @@
 唐盛飞 - 男 - 1993
 
 - 工作年限：2年+
-- 联系方式：tangsf123@126.com
+- 联系邮箱：tangsf123@126.com
+- 联系电话：tangsf123@126.com
 - 期望职位：web前端开发工程师
 - 期望薪资：10K
 - 期望城市：成都
@@ -53,7 +54,7 @@
 - 开发语言：html、html5、javascript、css3、nodejs
 - 前端框架：vuejs、avalonjs、reactjs、jquery、seajs
 - 构建工具：webpack、gulp
-- 预处理器：sass、less
+- css预处理器：sass、less
 - 版本管理：Svn、Git
 
 # 个人评价
